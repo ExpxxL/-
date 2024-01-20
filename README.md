@@ -9,4 +9,6 @@
 在题库展示界面，可以选择单选题，多选题，判断题，主观题等题型单独展示，还有修改，删除，搜索，翻页功能，以及出卷功能
 ![image](https://github.com/ExpxxL/Question-bank-management-system/assets/149607324/60efd2ac-5b68-4591-ba61-3f7f3e43483d)
 
+其中一个登录凭证是用户名：z,密码：z
+
 欢迎大家指教
